@@ -1,0 +1,19 @@
+C:\EISnt\ProjetoC\ProjetoWIN\bin\Debug\ProjetoWIN.exe.config
+C:\EISnt\ProjetoC\ProjetoWIN\bin\Debug\ProjetoWIN.exe
+C:\EISnt\ProjetoC\ProjetoWIN\bin\Debug\ProjetoWIN.pdb
+C:\EISnt\ProjetoC\ProjetoWIN\obj\Debug\ProjetoWIN.csproj.AssemblyReference.cache
+C:\EISnt\ProjetoC\ProjetoWIN\obj\Debug\ProjetoWIN.csproj.SuggestedBindingRedirects.cache
+C:\EISnt\ProjetoC\ProjetoWIN\obj\Debug\ProjetoWIN.Properties.Resources.resources
+C:\EISnt\ProjetoC\ProjetoWIN\obj\Debug\ProjetoWIN.csproj.GenerateResource.cache
+C:\EISnt\ProjetoC\ProjetoWIN\obj\Debug\ProjetoWIN.csproj.CoreCompileInputs.cache
+C:\EISnt\ProjetoC\ProjetoWIN\obj\Debug\ProjetoWIN.exe
+C:\EISnt\ProjetoC\ProjetoWIN\obj\Debug\ProjetoWIN.pdb
+C:\EISnt\ProjetoC\ProjetoWIN\bin\Debug\ProjetoCLS.dll
+C:\EISnt\ProjetoC\ProjetoWIN\bin\Debug\ProjetoCLS.pdb
+C:\EISnt\ProjetoC\ProjetoWIN\obj\Debug\ProjetoWIN.csproj.CopyComplete
+C:\EISnt\ProjetoC\ProjetoWIN\obj\Debug\ProjetoWIN.Default.resources
+C:\EISnt\ProjetoC\ProjetoWIN\obj\Debug\ProjetoWIN.Login.resources
+C:\Users\João Ferreira\OneDrive\Documents\Formação\EISNT\Progrmação em C#\Projeto Final\ProjetoWIN\obj\Debug\ProjetoWIN.csproj.AssemblyReference.cache
+C:\Users\João Ferreira\OneDrive\Documents\Formação\EISNT\Progrmação em C#\Projeto Final\ProjetoWIN\obj\Debug\ProjetoWIN.csproj.SuggestedBindingRedirects.cache
+C:\Users\João Ferreira\OneDrive\Documents\Formação\EISNT\Progrmação em C#\Projeto Final\ProjetoWIN\obj\Debug\ProjetoWIN.exe
+C:\Users\João Ferreira\OneDrive\Documents\Formação\EISNT\Progrmação em C#\Projeto Final\ProjetoWIN\obj\Debug\ProjetoWIN.pdb

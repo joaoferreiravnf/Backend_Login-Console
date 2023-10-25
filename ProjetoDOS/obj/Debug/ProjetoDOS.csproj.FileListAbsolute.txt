@@ -1,0 +1,22 @@
+C:\EISnt\ProjetoC\ProjetoDOS\bin\Debug\ProjetoDOS.exe.config
+C:\EISnt\ProjetoC\ProjetoDOS\bin\Debug\ProjetoDOS.exe
+C:\EISnt\ProjetoC\ProjetoDOS\bin\Debug\ProjetoDOS.pdb
+C:\EISnt\ProjetoC\ProjetoDOS\obj\Debug\ProjetoDOS.csproj.AssemblyReference.cache
+C:\EISnt\ProjetoC\ProjetoDOS\obj\Debug\ProjetoDOS.csproj.SuggestedBindingRedirects.cache
+C:\EISnt\ProjetoC\ProjetoDOS\obj\Debug\ProjetoDOS.csproj.CoreCompileInputs.cache
+C:\EISnt\ProjetoC\ProjetoDOS\obj\Debug\ProjetoDOS.exe
+C:\EISnt\ProjetoC\ProjetoDOS\obj\Debug\ProjetoDOS.pdb
+C:\EISnt\ProjetoC\ProjetoDOS\bin\Debug\ProjetoCLS.dll
+C:\EISnt\ProjetoC\ProjetoDOS\bin\Debug\ProjetoCLS.pdb
+C:\EISnt\ProjetoC\ProjetoDOS\obj\Debug\ProjetoDOS.csproj.CopyComplete
+C:\Users\João Ferreira\OneDrive\Documents\Formação\EISNT\Progrmação em C#\Projeto Final\ProjetoDOS\bin\Debug\ProjetoDOS.exe.config
+C:\Users\João Ferreira\OneDrive\Documents\Formação\EISNT\Progrmação em C#\Projeto Final\ProjetoDOS\bin\Debug\ProjetoDOS.exe
+C:\Users\João Ferreira\OneDrive\Documents\Formação\EISNT\Progrmação em C#\Projeto Final\ProjetoDOS\bin\Debug\ProjetoDOS.pdb
+C:\Users\João Ferreira\OneDrive\Documents\Formação\EISNT\Progrmação em C#\Projeto Final\ProjetoDOS\bin\Debug\ProjetoCLS.dll
+C:\Users\João Ferreira\OneDrive\Documents\Formação\EISNT\Progrmação em C#\Projeto Final\ProjetoDOS\bin\Debug\ProjetoCLS.pdb
+C:\Users\João Ferreira\OneDrive\Documents\Formação\EISNT\Progrmação em C#\Projeto Final\ProjetoDOS\obj\Debug\ProjetoDOS.csproj.AssemblyReference.cache
+C:\Users\João Ferreira\OneDrive\Documents\Formação\EISNT\Progrmação em C#\Projeto Final\ProjetoDOS\obj\Debug\ProjetoDOS.csproj.SuggestedBindingRedirects.cache
+C:\Users\João Ferreira\OneDrive\Documents\Formação\EISNT\Progrmação em C#\Projeto Final\ProjetoDOS\obj\Debug\ProjetoDOS.csproj.CoreCompileInputs.cache
+C:\Users\João Ferreira\OneDrive\Documents\Formação\EISNT\Progrmação em C#\Projeto Final\ProjetoDOS\obj\Debug\ProjetoDOS.csproj.CopyComplete
+C:\Users\João Ferreira\OneDrive\Documents\Formação\EISNT\Progrmação em C#\Projeto Final\ProjetoDOS\obj\Debug\ProjetoDOS.exe
+C:\Users\João Ferreira\OneDrive\Documents\Formação\EISNT\Progrmação em C#\Projeto Final\ProjetoDOS\obj\Debug\ProjetoDOS.pdb

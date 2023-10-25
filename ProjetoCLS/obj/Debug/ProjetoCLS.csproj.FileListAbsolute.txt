@@ -1,0 +1,12 @@
+C:\EISnt\ProjetoC\ProjetoCLS\bin\Debug\ProjetoCLS.dll
+C:\EISnt\ProjetoC\ProjetoCLS\bin\Debug\ProjetoCLS.pdb
+C:\EISnt\ProjetoC\ProjetoCLS\obj\Debug\ProjetoCLS.csproj.AssemblyReference.cache
+C:\EISnt\ProjetoC\ProjetoCLS\obj\Debug\ProjetoCLS.csproj.CoreCompileInputs.cache
+C:\EISnt\ProjetoC\ProjetoCLS\obj\Debug\ProjetoCLS.dll
+C:\EISnt\ProjetoC\ProjetoCLS\obj\Debug\ProjetoCLS.pdb
+C:\Users\João Ferreira\OneDrive\Documents\Formação\EISNT\Progrmação em C#\Projeto Final\ProjetoCLS\bin\Debug\ProjetoCLS.dll
+C:\Users\João Ferreira\OneDrive\Documents\Formação\EISNT\Progrmação em C#\Projeto Final\ProjetoCLS\bin\Debug\ProjetoCLS.pdb
+C:\Users\João Ferreira\OneDrive\Documents\Formação\EISNT\Progrmação em C#\Projeto Final\ProjetoCLS\obj\Debug\ProjetoCLS.csproj.AssemblyReference.cache
+C:\Users\João Ferreira\OneDrive\Documents\Formação\EISNT\Progrmação em C#\Projeto Final\ProjetoCLS\obj\Debug\ProjetoCLS.csproj.CoreCompileInputs.cache
+C:\Users\João Ferreira\OneDrive\Documents\Formação\EISNT\Progrmação em C#\Projeto Final\ProjetoCLS\obj\Debug\ProjetoCLS.dll
+C:\Users\João Ferreira\OneDrive\Documents\Formação\EISNT\Progrmação em C#\Projeto Final\ProjetoCLS\obj\Debug\ProjetoCLS.pdb
